@@ -1,0 +1,159 @@
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\bin\Debug\Lab 2.1.exe.config
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\bin\Debug\Lab 2.1.exe
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\bin\Debug\Lab 2.1.pdb
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\obj\Debug\Lab 2.1.csprojAssemblyReference.cache
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\obj\Debug\Lab_2._1.Form1.resources
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\obj\Debug\Lab_2._1.Properties.Resources.resources
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\obj\Debug\Lab 2.1.csproj.GenerateResource.cache
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\obj\Debug\Lab 2.1.exe
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\obj\Debug\Lab 2.1.pdb
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\obj\Debug\Lab_2._1.Form2.resources
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\bin\Debug\EntityFramework.dll
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\bin\Debug\EntityFramework.xml
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Системне програмування\Lab 2\Lab 2.1\Lab 2.1\obj\Debug\Lab 2.1.csproj.CopyComplete
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Lab 2.1.exe.config
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Lab 2.1.exe
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Lab 2.1.pdb
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\EntityFramework.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Google.Protobuf.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\MySql.Data.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Remotion.Linq.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Renci.SshNet.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Buffers.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Collections.Immutable.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Interactive.Async.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Memory.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\EntityFramework.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Google.Protobuf.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\MySql.Data.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Remotion.Linq.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\Renci.SshNet.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Buffers.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Collections.Immutable.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Interactive.Async.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Memory.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\obj\Debug\Lab 2.1.csprojAssemblyReference.cache
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\obj\Debug\Lab_2._1.Form1.resources
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\obj\Debug\Lab_2._1.Form2.resources
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\obj\Debug\Lab_2._1.Properties.Resources.resources
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\obj\Debug\Lab 2.1.csproj.GenerateResource.cache
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\obj\Debug\Lab 2.1.csproj.CopyComplete
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\obj\Debug\Lab 2.1.exe
+C:\Системне програмування\Lab 2\Lab 2.1 — копия\Lab 2.1\obj\Debug\Lab 2.1.pdb
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\obj\Debug\Lab 2.1.csprojAssemblyReference.cache
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\obj\Debug\Lab_2._1.Form1.resources
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\obj\Debug\Lab_2._1.Form2.resources
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\obj\Debug\Lab_2._1.Properties.Resources.resources
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\obj\Debug\Lab 2.1.csproj.GenerateResource.cache
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\obj\Debug\Lab 2.1.exe
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\obj\Debug\Lab 2.1.pdb
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Lab 2.1.exe.config
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Lab 2.1.exe
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Lab 2.1.pdb
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\EntityFramework.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Google.Protobuf.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\MySql.Data.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Remotion.Linq.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Renci.SshNet.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Buffers.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Collections.Immutable.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Interactive.Async.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Memory.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\EntityFramework.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Google.Protobuf.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\MySql.Data.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Remotion.Linq.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\Renci.SshNet.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Buffers.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Collections.Immutable.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Interactive.Async.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Memory.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Системне програмування\Lab 2\Lab 2.2\Lab 2.1\obj\Debug\Lab 2.1.csproj.CopyComplete

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище Trade_Of_UkraineModel" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.5" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Trade_Company">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="45" />
+    <Property Name="Owner" Type="varchar" MaxLength="45" />
+    <Property Name="TradingScaleId" Type="int" />
+    <Property Name="NumberOfShops" Type="int" />
+    <Property Name="HeadCity" Type="varchar" MaxLength="45" />
+  </EntityType>
+  <EntityType Name="Trade_Scale">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="45" />
+    <Property Name="Description" Type="varchar" MaxLength="450" />
+  </EntityType>
+  <EntityContainer Name="Хранилище Trade_Of_UkraineModelContainer">
+    <EntitySet Name="Trade_Company" EntityType="Self.Trade_Company" Schema="Trade_Of_Ukraine" store:Type="Tables" />
+    <EntitySet Name="Trade_Scale" EntityType="Self.Trade_Scale" Schema="Trade_Of_Ukraine" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
